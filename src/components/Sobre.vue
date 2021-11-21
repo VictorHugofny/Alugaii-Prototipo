@@ -7,12 +7,12 @@
 
 <style>
 .sobre h1{
-    color: rgb(0, 225, 255);
+    color: rgb(255, 255, 255);
     padding-bottom: 30px;
     text-align: center;
     font-size: 46px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .sobre strong{
     color: rgb(0, 225, 255);
@@ -23,13 +23,13 @@
     padding-bottom: 30px;
     text-align: center;
     font-size: 26px;
-    padding-left: 100px;
-    padding-right: 100px;  
+    padding-left: 20px;
+    padding-right: 20px;  
 }
 body{
-    background-image: linear-gradient(to bottom, rgba(0, 15, 17, 0.979), rgba(0, 13, 15, 0.849)),url("../assets/2gif.gif");   background-repeat: no-repeat;   background-attachment: fixed;
-    background-size: 100%;
+    background-color: rgb(24, 24, 24);
 }
+
 .sobre{
     padding-top: 230px;
     padding-bottom: 230px;

@@ -44,7 +44,7 @@
 
 <style>
 .contatos h1{
-    font-size: 64px;
+    font-size: 54px;
     color: rgba(8, 222, 255, 0.63) ;
     font-weight: bolder;
     text-align: center;
@@ -62,17 +62,35 @@
     justify-content: space-evenly;
 }
 
+.container1 > div {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  flex: 10 10 50%;
+  text-align: center;
+  border: rgb(1, 139, 163) 3px solid;
+  border-radius: 10px;
+}
+
+.container1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
 .contatos{
   padding-top: 20px;
   padding-bottom: 20px;
-  background-image: linear-gradient(to bottom, rgba(0, 17, 26, 0.966), rgba(0, 0, 0, 0.794)), url('../assets/gifcontatos.gif');
-  background-repeat: no-repeat;
-  background-size: cover;
+
 }
 .card1 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   background-color: rgb(255, 255, 255);
-  max-width: 300px;
+  max-width: 260px;
   margin: auto;
   text-align: center;
   font-family: arial;

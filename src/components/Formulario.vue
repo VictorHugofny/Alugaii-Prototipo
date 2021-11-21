@@ -1,6 +1,9 @@
 <template>
 <div class ='formulario'>
-  <h1>Faça seu pedido abaixo, logo apos iremos retornar uma resposta por email</h1>
+  <h1>Faça seu pedido abaixo</h1>
+  <h1>em alguns dias vamos retornar por email</h1>
+  <h1></h1>
+  <div class='form'>
     <form>   
     <h2>Nome completo</h2>
     <input type="text" id="lname" name="lname" >
@@ -11,7 +14,7 @@
     <input type="text" id="pedido" name="pedido"><br><br>
     </div>
     <button> Enviar </button>
-    </form>
+    </form></div>
 </div>
 </template>
 
@@ -22,25 +25,35 @@ export default {
 </script>
 
 <style>
+form{
+    background-color: rgba(0, 42, 70, 0.719);
+    width: 350px;
+    position: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
 .formulario{
-    padding-top: 100px;
-    padding-bottom: 150px;
-    background-color: rgb(0, 171, 194);
+    background-image: linear-gradient(to bottom, rgba(0, 70, 107, 0.678), rgba(0, 0, 0, 0.883)), url('../assets/gifcontatos.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 100px;
 }
 .formulario h1{
     color: white;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 .formulario h2{
     color: white;
     padding-bottom: 20px;
 }
 .formulario input{
-    width: 240px;
+    width: 300px;
     height: 30px;
+    margin-bottom: 10px;
 }
 .pedido input{
-    width: 240px;
+    width: 300px;
     height: 130px;
 }
 .formulario button{
@@ -55,5 +68,8 @@ export default {
     border-radius: 10px;
     
 }
-
+.form{
+    display: flex;
+    justify-content: space-around;
+}
 </style>

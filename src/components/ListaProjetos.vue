@@ -36,11 +36,22 @@
 </template>
 
 <style>
-
 .container{
+    margin-top: 100px;
+    margin-bottom: 100px;
     display: flex;
-    margin-top: 150px;
-    margin-bottom: 150px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.container > div {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  flex: 10 10 30%;
+  text-align: center;
+  border: rgb(1, 139, 163) 3px solid;
+  border-radius: 10px;
 }
 .container h1,p{
     color: black;
@@ -52,9 +63,16 @@
   margin: auto;
   text-align: center;
   font-family: arial;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(2, 0, 0);
 }
-
+.card h1{
+    color:white;
+    padding-bottom: 20px;
+}
+.card p{
+    color:white;
+    padding-bottom: 20px;
+}
 .price {
   color: grey;
   font-size: 22px;
