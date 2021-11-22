@@ -28,4 +28,13 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+@media(max-width: 800px){
+.topo{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.835), rgba(0, 0, 0, 0.849)), url('../assets/home-mobile.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+}
 </style>

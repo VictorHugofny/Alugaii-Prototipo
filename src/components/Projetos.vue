@@ -31,4 +31,13 @@ export default {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+@media(max-width: 800px){
+.projeto{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.815), rgba(0, 0, 0, 0.787)), url('../assets/frente-mobile.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+}
 </style>
