@@ -27,7 +27,8 @@
   position: -webkit-sticky; /* Necessário para funcionar no Safari */
   position: sticky;
   top: 0;
-  padding: 6px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   width: 100%;
   text-align: center;
   color:rgb(202, 202, 202);
