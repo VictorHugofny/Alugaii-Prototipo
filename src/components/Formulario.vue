@@ -35,7 +35,7 @@ form{
     border-radius: 10px;
 }
 .formulario{
-    background-image: linear-gradient(0deg, rgba(0,0,0,1) -50%, rgba(0, 11, 24, 0.829) 55%, rgba(0,0,0,1) 130%), url('../assets/topo.jpg');
+    background-image: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0, 11, 24, 0.829) 50%, rgba(0,0,0,1) 100%), url('../assets/topo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 40px;

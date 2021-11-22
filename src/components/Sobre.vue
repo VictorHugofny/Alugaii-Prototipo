@@ -27,7 +27,7 @@
     padding-right: 20px;  
 }
 body{
-    background-color: rgb(24, 24, 24);
+    background-color: rgb(0, 0, 0);
 }
 
 .sobre{
