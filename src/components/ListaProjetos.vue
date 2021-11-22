@@ -5,9 +5,9 @@
         <h1>Portifolio - Victorhugofny</h1>
         <p>Portifolio Pessoal com meus estudos/projetos</p>
             <div class='button'>
-                <button>SITE</button>
-                <button>REPOSITORIO</button>
-            </div>
+                <a href="https://victorhugofny.vercel.app/" target="_blank"><button>SITE</button> </a>
+                <a href="https://github.com/VictorHugofny/Portifolio-Vue.js" target="_blank"><button>REPOSITORIO</button></a>
+            </div> 
     </div>
 
     <div class="card">
@@ -15,8 +15,8 @@
         <h1>Portifolio - Luis Henrique</h1>
         <p>Portifolio Pessoal com meus estudos/projetos</p>
             <div class='button'>
-                <button>SITE</button>
-                <button>REPOSITORIO</button>
+                <a href="https://nan-nan-sempai.github.io/pt/" target="_blank"><button>SITE</button> </a>
+                <a href="https://github.com/NaN-NaN-sempai/NaN-NaN-sempai.github.io" target="_blank"><button>REPOSITORIO</button></a>
             </div>
     </div>
 
@@ -25,8 +25,8 @@
         <h1>Portifolio - Marcos Santos</h1>
         <p>Portifolio Pessoal com meus estudos/projetos</p>
             <div class='button'>
-                <button>SITE</button>
-                <button>REPOSITORIO</button>
+                <a href="https://github.com/Marckhos" target="_blank"><button>SITE</button> </a>
+                <a href="https://github.com/Marckhos" target="_blank"><button>REPOSITORIO</button></a>
             </div>
     </div>
 
@@ -89,6 +89,9 @@
   width: 100%;
   font-size: 18px;
   border: 2px solid rgba(0, 0, 0, 0.712);
+}
+.card a{
+    width: 100%;
 }
 
 .card button:hover {

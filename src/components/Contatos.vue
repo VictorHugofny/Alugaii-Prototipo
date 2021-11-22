@@ -9,32 +9,33 @@
     <img src="../assets/hugo.jpeg" alt="John" style="width:100%">
     <h2>Victor Hugo</h2>
     <p class="title">Desenvolvedor Web & Editor AudioVisual</p>
-    <a href="#"><i class="fa fa-github"></i></a>
-    <a href="#"><i class="fa fa-linkedin"></i></a>
-    <a href="#"><i class="fa fa-instagram"></i></a>
-    <a href="#"><i class="fa fa-envelope"></i></a>
-    <p><button>Contact</button></p>
+    <a href="https://github.com/VictorHugofny" target="_blank"><i class="fa fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/victor-hugo-santana/" target="_blank"><i class="fa fa-linkedin"></i></a>
+    <a href="https://www.instagram.com/victorhugofny/?hl=pt" target="_blank"><i class="fa fa-instagram"></i></a>
+    <a href="mailto:victorhugofny@gmail.com?subject=Hello%20again" target="_blank"><i class="fa fa-envelope" target="_blank"></i></a>
+    <p><button>SOBRE</button></p> 
   </div>
 
   <div class="card1">
     <img src="../assets/Luis.jpeg" alt="John" style="width:100%">
     <h2>Luis Henrique</h2>
     <p class="title">Desenvolvedor Web & Designer Grafico</p>
-    <a href="#"><i class="fa fa-github"></i></a>
-    <a href="#"><i class="fa fa-linkedin"></i></a>
-    <a href="#"><i class="fa fa-instagram"></i></a>
-    <a href="#"><i class="fa fa-envelope"></i></a>
-    <p><button>Contact</button></p>
+    <a href="https://github.com/NaN-NaN-sempai" target="_blank"><i class="fa fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/lu%C3%ADs-henrique-de-almeida-gomes-949954217/" target="_blank"><i class="fa fa-linkedin"></i></a>
+    <a href="https://www.instagram.com/luis_hnrique/" target="_blank"><i class="fa fa-instagram"></i></a>
+    <a href="mailto:lubizinho-2001@hotmail.com?subject=Hello%20again" target="_blank"><i class="fa fa-envelope"></i></a>
+    <p><button>SOBRE</button></p>
   </div>
 
   <div class="card1">
     <img src="../assets/marcos.png" alt="John" style="width:100%">
     <h2>Marcos Santos</h2>
-    <p class="title">Desenvolvedor Web & Designer Grafico</p>  <a href="#"><i class="fa fa-github"></i></a>
-    <a href="#"><i class="fa fa-linkedin"></i></a>
-    <a href="#"><i class="fa fa-instagram"></i></a>
-    <a href="#"><i class="fa fa-envelope"></i></a>
-    <p><button>Contact</button></p>
+    <p class="title">Desenvolvedor Web & Designer Grafico</p>  
+    <a href="https://github.com/Marckhos" target="_blank"><i class="fa fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/marcos-santos-8a28a7221/" target="_blank"><i class="fa fa-linkedin"></i></a>
+    <a href="https://www.instagram.com/__.marcosants.__/?hl=pt" target="_blank"><i class="fa fa-instagram"></i></a>
+    <a href="#" target="_blank"><i class="fa fa-envelope"></i></a>
+    <p><button>SOBRE</button></p>
   </div>
 
 </div>
