@@ -34,7 +34,7 @@ export default {
 
 @media(max-width: 800px){
 .projeto{
-    background-image: linear-gradient(0deg, rgba(0,0,0,1) -50%, rgba(0, 0, 0, 0.787) 50%, rgba(0,0,0,1) 130%), url('../assets/frente-mobile.jpg');
+    background-image: linear-gradient(0deg, rgba(0,0,0,1) -50%, rgba(0, 0, 0, 0.787) 50%, rgb(0, 0, 0) 130%), url('../assets/frente-mobile.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
