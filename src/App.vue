@@ -29,12 +29,19 @@
 
 #nav a {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   color: #2c3e50;
 }
 
 #nav a.router-link-exact-active {
   color: #4283b9;
+}
+
+@media(max-width: 800px){
+#nav a {
+  font-size: 14px;
+}
+
 }
 
 
