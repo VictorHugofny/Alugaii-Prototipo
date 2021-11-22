@@ -27,14 +27,14 @@ export default {
 .projeto{
     padding-top: 300px;
     padding-bottom: 300px;
-    background-image: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.904) 50%, rgb(0, 0, 0) 100%), url('../assets/frente.jpg');
+    background-image: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 8, 26, 0.739) 50%, rgb(0, 0, 0) 100%), url('../assets/frente.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 @media(max-width: 800px){
 .projeto{
-    background-image: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.787) 50%, rgb(0, 0, 0) 100%), url('../assets/frente-mobile.jpg');
+    background-image: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 8, 26, 0.739) 50%, rgb(0, 0, 0) 100%), url('../assets/frente-mobile.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }

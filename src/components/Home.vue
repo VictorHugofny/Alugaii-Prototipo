@@ -24,14 +24,14 @@
 .topo{
     padding-top: 200px;
     padding-bottom: 400px;
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.794), rgb(0, 0, 0)), url('../assets/projetos.jpg');
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.671), rgb(0, 0, 0)), url('../assets/projetos.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 @media(max-width: 800px){
 .topo{
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.808), rgb(0, 0, 0)), url('../assets/home-mobile.png');
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.671), rgb(0, 0, 0)), url('../assets/home-mobile.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
