@@ -26,14 +26,16 @@ export default {
 
 <style>
 form{
-    background-color: rgba(0, 42, 70, 0.719);
+    background-color: rgb(0, 39, 70);
     width: 350px;
     position: center;
     padding-top: 10px;
     padding-bottom: 20px;
+    border: 5px solid rgb(0, 3, 49);
+    border-radius: 10px;
 }
 .formulario{
-    background-image: linear-gradient(to bottom, rgba(0, 70, 107, 0.856), rgba(0, 0, 0, 0.931)), url('../assets/topo.jpg');
+    background-image: linear-gradient(0deg, rgba(0,0,0,1) -50%, rgba(0, 11, 24, 0.829) 55%, rgba(0,0,0,1) 130%), url('../assets/topo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 40px;
