@@ -1,6 +1,6 @@
 <template>
 <div class="topo">
-    <h1>Oraite Developer</h1>
+    <h1>OraiteDev</h1>
     <p>Criamos e codificamos soluçoes.</p>
 </div>
      
