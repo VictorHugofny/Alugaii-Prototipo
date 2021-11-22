@@ -33,7 +33,7 @@ form{
     padding-bottom: 20px;
 }
 .formulario{
-    background-image: linear-gradient(to bottom, rgba(0, 70, 107, 0.678), rgba(0, 0, 0, 0.883)), url('../assets/gifcontatos.gif');
+    background-image: linear-gradient(to bottom, rgba(0, 70, 107, 0.856), rgba(0, 0, 0, 0.931)), url('../assets/topo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 40px;

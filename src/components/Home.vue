@@ -1,6 +1,6 @@
 <template>
 <div class="topo">
-    <h1>OraiteDev</h1>
+    <h1>Oraite Dev</h1>
     <p>Criamos e codificamos soluçoes.</p>
 </div>
      
@@ -24,7 +24,7 @@
 .topo{
     padding-top: 200px;
     padding-bottom: 400px;
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.753), rgba(0, 0, 0, 0.767)), url('../assets/fullmetal.gif');
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.787), rgba(0, 0, 0, 0.657)), url('../assets/projetos.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }

@@ -27,7 +27,7 @@ export default {
 .projeto{
     padding-top: 300px;
     padding-bottom: 300px;
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.753), rgba(0, 0, 0, 0.767)), url('../assets/gifrapida.gif');
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.815), rgba(0, 0, 0, 0.787)), url('../assets/frente.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
