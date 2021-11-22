@@ -80,7 +80,6 @@
 
 .card button {
   margin-top: 10px;
-  border: none;
   outline: 0;
   padding: 12px;
   color: white;
@@ -89,6 +88,7 @@
   cursor: pointer;
   width: 100%;
   font-size: 18px;
+  border: 2px solid rgba(0, 0, 0, 0.712);
 }
 
 .card button:hover {
