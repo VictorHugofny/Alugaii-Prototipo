@@ -49,7 +49,6 @@
                 <a href="https://github.com/NaN-NaN-sempai/Dark_Pygmy" target="_blank"><button>REPOSITORIO</button></a>
             </div>
     </div>
-
 </div> 
 
 </template>
