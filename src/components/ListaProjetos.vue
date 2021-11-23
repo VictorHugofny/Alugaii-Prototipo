@@ -30,7 +30,26 @@
             </div>
     </div>
 
-    
+    <div class="card">
+        <img src="../assets/douglas.gif" alt="Denim Jeans" width= "300px" height="220px"> 
+        <h1>Portifolio - Douglas Silva</h1>
+        <p>Portifolio Pessoal com meus estudos/projetos</p>
+            <div class='button'>
+                <a href="https://github.com/douglassantos45" target="_blank"><button>SITE</button> </a>
+                <a href="https://github.com/douglassantos45" target="_blank"><button>REPOSITORIO</button></a>
+            </div>
+    </div>
+
+    <div class="card">
+        <img src="../assets/dark.png" alt="Denim Jeans" width= "300px" height="220px"> 
+        <h1>Dark_Pygmy - Game</h1>
+        <p>Jogo 3d em desenvolvimento</p>
+            <div class='button'>
+                <a href="https://github.com/NaN-NaN-sempai/Dark_Pygmy" target="_blank"><button>SITE</button> </a>
+                <a href="https://github.com/NaN-NaN-sempai/Dark_Pygmy" target="_blank"><button>REPOSITORIO</button></a>
+            </div>
+    </div>
+
 </div> 
 
 </template>
