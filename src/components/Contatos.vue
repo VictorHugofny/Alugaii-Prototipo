@@ -37,6 +37,16 @@
     <a href="#" target="_blank"><i class="fa fa-envelope"></i></a>
     <p><button>SOBRE</button></p>
   </div>
+    <div class="card1">
+    <img src="../assets/douglas.png" alt="John" style="width:100%">
+    <h2>Douglas da Silva</h2>
+    <p class="title">Desenvolvedor Web & Designer Grafico</p>  
+    <a href="https://github.com/douglassantos45" target="_blank"><i class="fa fa-github"></i></a>
+    <a href="https://github.com/douglassantos45" target="_blank"><i class="fa fa-linkedin"></i></a>
+    <a href="https://github.com/douglassantos45" target="_blank"><i class="fa fa-instagram"></i></a>
+    <a href="https://github.com/douglassantos45" target="_blank"><i class="fa fa-envelope"></i></a>
+    <p><button>SOBRE</button></p>
+  </div>
 
 </div>
 </div>
