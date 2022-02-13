@@ -1,11 +1,11 @@
 <template>
   <div class="home">
     <Homepage/>
-    <Sobre/>
-    <Projetos/>
     <ListaProjetos/>
-    <Formulario/>
+    <Projetos/>
+    <Sobre/>
     <Contatos/>
+    <Formulario/>
   </div>
 </template>
 

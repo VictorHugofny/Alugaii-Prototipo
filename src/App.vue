@@ -1,10 +1,13 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> 
-      <router-link to="/projetos">Projetos </router-link> 
-      <router-link to="/about">Responsaveis</router-link> 
-      <router-link to="/pedido">Pedido</router-link>
+      <div>
+        <router-link to="/">Principal</router-link> 
+        <router-link to="/projetos">Plataforma </router-link> 
+        <router-link to="/about">APP ALugaii</router-link> 
+        <router-link to="/pedido">Pedido</router-link>
+      </div>
+     
     </div>
     <router-view/>
   </div>
@@ -44,11 +47,11 @@
   padding: 6px;
   font-weight: bold;
   font-size: 20px;
-  color: #004458;
+  color: #757575;
 }
 
 #nav a.router-link-exact-active {
-  color: #00c3ff;
+  color: #ff5353;
 }
 
 @media(max-width: 800px){
